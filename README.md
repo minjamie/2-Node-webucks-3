@@ -1,22 +1,3 @@
-# 다함께charcharchar
+# 스타벅스 클론코팅
 
-```http
-HTTP/1.1 200 OK
-Connection: keep-alive
-Content-Length: 72
-Content-Type: application/json; charset=utf-8
-Date: Mon, 13 Sep 2021 03:38:02 GMT
-ETag: W/"48-OgTgIpZIN4kkGHEulmKIykWajcY"
-Keep-Alive: timeout=5
-X-Powered-By: Express
-
-{
-    "member": [
-        "김민재",
-        "김윤진",
-        "김재원",
-        "김지현",
-        "이원국"
-    ]
-}
-```
+리액트를 사용해 스타벅스 커피 리스트페이지와 커피 상세페이지 클론 프로젝트
